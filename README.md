@@ -4,7 +4,7 @@ A minecraft java edition server
 
 <hr>
 
-Written by the CraftSuperLoaderTeam and PiexleCraftBBS , based on the source code of SpigotMC and MCP, self-developed Minecraft server, this project truly implements a server that is not based on any open source core.
+Written by CraftSuperLoaderTeam and PiexleCraftBBS, the fully self-developed Minecraft server, the project truly implements servers that are not based on any open source core.
 At present, the server abandons the original version of single-threaded processing and changes to multi-threaded processing, which can better utilize multiple cores of the CPU.
 
 # Library
